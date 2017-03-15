@@ -1,0 +1,17 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.color {
+  color: blue;
+}
+
+.color h1 {
+  color: purple;
+}
+
+.color p {
+font-weight: bold;
+
+}
